@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**m-defazio/m-defazio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Michele De Fazio, a master's student in Computer Engineering at the University of Naples Federico II. I'm also part of the Cyber Hackademy at Federico II, where I'm diving deep into cybersecurity.  
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🔐 Passionate about **Cybersecurity** and **Software Development**  
+- 🎓 Currently studying at **Cyber Hackademy, Federico II**  
+- 💡 Always looking to learn and collaborate on exciting projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Me
+- 📷 Instagram: [@michkere_](https://www.instagram.com/michkere_)  
+- 💼 LinkedIn: [Michele De Fazio](https://www.linkedin.com/in/michele-de-fazio-10a151227/)  
+
+⚡ Fun fact: I love breaking things (ethically, of course) and making them more secure! 😆  
