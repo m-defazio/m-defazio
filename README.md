@@ -4,7 +4,7 @@ I'm Michele De Fazio, a master's student in Computer Engineering at the Universi
 
 ### 🚀 About Me
 - 🔐 Passionate about **Cybersecurity** and **Software Development**  
-- 🎓 Currently studying at **Cyber Hackademy, Federico II**  
+- 🎓 Currently studying at **Cyber HackAdemy, Unina**  
 - 💡 Always looking to learn and collaborate on exciting projects  
 
 ### 📫 Connect with Me
