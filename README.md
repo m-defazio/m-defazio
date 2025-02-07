@@ -8,7 +8,7 @@ I'm Michele De Fazio, a master's student in Computer Engineering at the Universi
 - 💡 Always looking to learn and collaborate on exciting projects  
 
 ### 📫 Connect with Me
-- 📷 Instagram: [@michkere_](https://www.instagram.com/michkere_)  
+- 📷 Instagram: [@michkele_](https://www.instagram.com/michkele_)  
 - 💼 LinkedIn: [Michele De Fazio](https://www.linkedin.com/in/michele-de-fazio-10a151227/)  
 
 ⚡ Fun fact: I love breaking things (ethically, of course) and making them more secure! 😆  
