@@ -23,8 +23,8 @@ I'm a Master's student in Computer Engineering at *Università Federico II di Na
 ### 📫 Let's Connect!
 
 - **LinkedIn:** [Michele De Fazio](https://www.linkedin.com/in/michele-de-fazio-10a151227/)
-- **GitHub:** [@michelede-fazio](https://github.com/m-defazio)
-- **Instagram:** [@michkere\_](https://www.instagram.com/michkele_/)
+- **GitHub:** [@m-defazio](https://github.com/m-defazio)
+- **Instagram:** [@michkele\_](https://www.instagram.com/michkele_/)
 
 💡 *Always open to collaborations, projects, and cybersecurity discussions!*
 
